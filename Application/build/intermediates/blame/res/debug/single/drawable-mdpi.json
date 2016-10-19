@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\walej\\face-recognition-android-native\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_female.png",
+        "source": "C:\\Users\\walej\\face-recognition-android-native\\Application\\src\\main\\res\\drawable-mdpi\\ic_female.png"
+    },
+    {
+        "merged": "C:\\Users\\walej\\face-recognition-android-native\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "C:\\Users\\walej\\face-recognition-android-native\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\walej\\face-recognition-android-native\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\walej\\face-recognition-android-native\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\walej\\face-recognition-android-native\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_male.png",
+        "source": "C:\\Users\\walej\\face-recognition-android-native\\Application\\src\\main\\res\\drawable-mdpi\\ic_male.png"
+    }
+]
