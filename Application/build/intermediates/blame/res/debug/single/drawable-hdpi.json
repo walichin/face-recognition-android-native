@@ -1,22 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\walej\\face-recognition-android-native\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_info.png",
-        "source": "C:\\Users\\walej\\face-recognition-android-native\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_info.png"
+        "merged": "C:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_info.png",
+        "source": "C:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_info.png"
     },
     {
-        "merged": "C:\\Users\\walej\\face-recognition-android-native\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_female.png",
-        "source": "C:\\Users\\walej\\face-recognition-android-native\\Application\\src\\main\\res\\drawable-hdpi\\ic_female.png"
+        "merged": "C:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "C:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
     },
     {
-        "merged": "C:\\Users\\walej\\face-recognition-android-native\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\walej\\face-recognition-android-native\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\walej\\face-recognition-android-native\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
-        "source": "C:\\Users\\walej\\face-recognition-android-native\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+        "merged": "C:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_female.png",
+        "source": "C:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_female.png"
     },
     {
-        "merged": "C:\\Users\\walej\\face-recognition-android-native\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_male.png",
-        "source": "C:\\Users\\walej\\face-recognition-android-native\\Application\\src\\main\\res\\drawable-hdpi\\ic_male.png"
+        "merged": "C:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_male.png",
+        "source": "C:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_male.png"
     }
 ]

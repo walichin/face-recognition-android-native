@@ -12,6 +12,9 @@ import java.util.ArrayList;
  */
 public class SharedData {
 
+    public static String RAZORS_PATH = "http://alejosbucket01.s3-website-us-west-2.amazonaws.com/walichinapps/gender_recog/RAZORS/";
+    public static String MASCARAS_PATH = "http://alejosbucket01.s3-website-us-west-2.amazonaws.com/walichinapps/gender_recog/MASCARAS/";
+
     public static Handler handler;
     public static ProgressDialog progress;
 

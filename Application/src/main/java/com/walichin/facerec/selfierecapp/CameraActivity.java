@@ -33,51 +33,51 @@ public class CameraActivity extends Activity {
         SharedData.Mascaras_bitmapList = new ArrayList<Bitmap>();
 
         try {
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_01.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_02.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_03.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_04.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_05.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_06.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_07.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_08.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_09.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_10.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_11.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_12.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_13.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_14.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_15.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_16.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_17.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_18.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_19.jpeg");
-            new Download_Razors().execute("http://walichin.a2hosted.com/walichin/RAZORS/razor_20.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_01.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_02.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_03.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_04.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_05.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_06.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_07.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_08.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_09.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_10.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_11.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_12.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_13.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_14.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_15.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_16.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_17.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_18.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_19.jpeg");
+            new Download_Razors().execute(SharedData.RAZORS_PATH + "razor_20.jpeg");
         } catch (Exception e) {
             e.printStackTrace();
         }
 
         try {
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_01.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_02.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_03.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_04.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_05.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_06.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_07.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_08.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_09.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_10.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_11.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_12.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_13.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_14.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_15.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_16.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_17.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_18.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_19.jpeg");
-            new Download_Mascaras().execute("http://walichin.a2hosted.com/walichin/MASCARAS/mascara_20.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_01.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_02.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_03.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_04.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_05.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_06.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_07.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_08.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_09.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_10.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_11.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_12.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_13.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_14.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_15.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_16.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_17.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_18.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_19.jpeg");
+            new Download_Mascaras().execute(SharedData.MASCARAS_PATH + "mascara_20.jpeg");
         } catch (Exception e) {
             e.printStackTrace();
         }

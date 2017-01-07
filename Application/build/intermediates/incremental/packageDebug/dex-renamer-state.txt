@@ -1,0 +1,7 @@
+#Fri Jan 06 21:07:14 PST 2017
+base.0=C\:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_131ae0197f4e2d9e067f9f1460d6e5495fc38105
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a3d790ccfa756d7acbd8c9e315e30010c2011441\\classes.dex
+base.1=C\:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a3d790ccfa756d7acbd8c9e315e30010c2011441
+file.0=C\:\\Users\\walej\\Documents\\DEVELOPMENT\\gender-recognition-android-native-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_131ae0197f4e2d9e067f9f1460d6e5495fc38105\\classes.dex

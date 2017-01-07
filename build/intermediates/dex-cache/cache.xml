@@ -12,12 +12,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="E:\ANDROID_APPS\WalichinFaceRec\SelfieRecApp-10\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\classes.jar"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
-        <dex dex="E:\ANDROID_APPS\WalichinFaceRec\SelfieRecApp-10\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.4.0_b2ca3b6280f5c885c5a08f5a9688d04963d70427\classes.dex" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_07ada5ee9b2276a8627339a6d88deefa171c0b6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_e58be3c12feb3c02e96bf86919a6713aee32f08c\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,12 +75,84 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04a25139b1f6d536bb9ccb6c955051451ba6fbdc">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_131ae0197f4e2d9e067f9f1460d6e5495fc38105\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_6fafa062bbde066a8783c40e4f8469672a0de1cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c78859e2a4f1ae3bf87e8a2a5587b1c81556733b">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a3d790ccfa756d7acbd8c9e315e30010c2011441\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\ANDROID_APPS\WalichinFaceRec\SelfieRecApp-10\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
         <dex dex="E:\ANDROID_APPS\WalichinFaceRec\SelfieRecApp-10\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_6735347768b56f7eacca5b7923b9cf56a57709f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_428595761489f93d7750da798c46f9ab69f69bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_da32d408e42b20eea1f2dc92737049fdfe752875\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APPS\WalichinFaceRec\SelfieRecApp-10\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="E:\ANDROID_APPS\WalichinFaceRec\SelfieRecApp-10\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.4.0_b2ca3b6280f5c885c5a08f5a9688d04963d70427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_80edeaef067403a84421a319b09b6537e4d02322\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\libs\org.apache.http.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ebe74c77349ac7e8dc5cbcf5bdd86e45a400cf45">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http_7908e982ef231a54e199aef08d8703102c17f7f3\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,12 +174,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_314781b7fea1c0067cbc004b715700ae9cbf54f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\ANDROID_APPS\WalichinFaceRec\SelfieRecApp-10\Application\libs\org.apache.http.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="ebe74c77349ac7e8dc5cbcf5bdd86e45a400cf45">
         <dex dex="E:\ANDROID_APPS\WalichinFaceRec\SelfieRecApp-10\Application\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http_6dde1254e63868ea805b06cfc125d2217b0021ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="C:\Users\walej\Documents\DEVELOPMENT\gender-recognition-android-native-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.4.0_34c2ba302ac37252457d2be85b0812fff65da59c\classes.dex" />
     </item>
     <item
         is-multidex="true"

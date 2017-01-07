@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/face-recognition-android-native.iml" filepath="$PROJECT_DIR$/face-recognition-android-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gender-recognition-android-native-master.iml" filepath="$PROJECT_DIR$/gender-recognition-android-native-master.iml" />
     </modules>
   </component>
 </project>
